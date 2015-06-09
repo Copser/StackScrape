@@ -20,6 +20,6 @@ DATABASE = {
     'host': 'localhost',
     'port': '5432',
     'username': 'petarp',
-    'password': 'gnomeregan',
+    'password': '*******',
     'database': 'real'
 }
